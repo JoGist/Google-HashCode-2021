@@ -17,12 +17,13 @@ Task Given a description of libraries and books available, plan which books to s
 ## Code usage
 To run the script solution.py, just run the following command:
 ```sh
-python solution.py <input file> <output file>
+python solution.py 
 ```
+
+All output files will be generated automatically.
+
 ## Our best score
 ![best_score.png](best_score.png)
-
-Note: these scores were achieved during the extended round, since the dataset "D - tough choices" ran out the submission time for the online round.
 
 ## Scoreboard
 https://hashcodejudge.withgoogle.com/scoreboard
