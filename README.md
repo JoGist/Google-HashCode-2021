@@ -20,7 +20,7 @@ To run the script solution.py, just run the following command:
 python solution.py <input file> <output file>
 ```
 ## Our best score
-![BestScores.png](BestScores.png)
+![best_score.png](best_score.png)
 
 Note: these scores were achieved during the extended round, since the dataset "D - tough choices" ran out the submission time for the online round.
 
