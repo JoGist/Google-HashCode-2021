@@ -1,5 +1,5 @@
 # Google HashCode 2020 solution
-Our version of Google HashCode 2021 - Traffic signaling as Hush, cod! team.	Our solution version of Google HashCode 2020 online qualification round - Traffic signaling as Hush, cod! team.
+Our solution version of Google HashCode 2020 online qualification round - Traffic signaling as Hush, cod! team.
 
 ## Authors
 
@@ -9,10 +9,13 @@ Our version of Google HashCode 2021 - Traffic signaling as Hush, cod! team.	Our 
 
 ## Problem Introduction 
 Introduction
-Books Books allow us to discover fantasy worlds and beer understand the world we live in. They enable us to learn about everything from photography to compilers... and of course a good book is a great way to relax! Google Books is a project that embraces the value books bring to our daily lives. It aspires to bring the world's books online and make them accessible to everyone. In the last 15 years, Google Books has collected digital copies of 40 million books in more than 400 languages, paly by scanning books from libraries and publishers all around the world. In this competition problem, we will explore the challenges of seing up a scanning process for millions of books stored in libraries around the world and having them scanned at a scanning facility.
+The world's first traffic light dates back to 1868. It was installed in London to control traffic for... horse-drawn vehicles! Today, traffic lights can be found at street intersections in almost every city in the world, making it safer for vehicles to go through them.
+
+Traffic lights have at least two states, and use one color (usually red) to signal "stop", and another (usually green) to signal that cars can proceed through. The very first traffic lights were manually controlled. Nowadays they are automatic, meaning that they have to be carefully designed and timed in order to optimize the overall travel time for all the paicipants in traffic.
 
 ## The task 
-Task Given a description of libraries and books available, plan which books to scan from which library to maximize the total score of all scanned books, taking into account that each library needs to be signed up before it can ship books.
+Given the description of a city plan and planned paths for all cars in that city, optimize the schedule of trac lights to minimize the total amount of time spent in traffic, and help as many cars as possible reach their destination before a given deadline.
+
 
 ## Code usage
 To run the script solution.py, just run the following command:
